@@ -1,0 +1,16 @@
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\bin\Debug\net5.0\Brackets.exe
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\bin\Debug\net5.0\Brackets.deps.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\bin\Debug\net5.0\Brackets.runtimeconfig.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\bin\Debug\net5.0\Brackets.runtimeconfig.dev.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\bin\Debug\net5.0\Brackets.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\bin\Debug\net5.0\ref\Brackets.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\bin\Debug\net5.0\Brackets.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\Brackets.csproj.AssemblyReference.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\Brackets.AssemblyInfoInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\Brackets.AssemblyInfo.cs
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\Brackets.csproj.CoreCompileInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\Brackets.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\ref\Brackets.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\Brackets.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Recruitment-tasks\recruitment tasks\Brackets\Brackets\obj\Debug\net5.0\Brackets.genruntimeconfig.cache
