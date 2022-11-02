@@ -38,7 +38,7 @@ namespace Palindrome
                 if (userString[i] != ' ') result += userString[i].ToString();
             }
 
-            return result;
+            return result.ToLower();
         }
     }
 }
